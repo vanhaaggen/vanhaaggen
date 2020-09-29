@@ -7,7 +7,7 @@
 - 🔭 I’m currently working 
 - 🌱 I’m currently 
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: 
+- ⚡ Fun fact 
 
 <br />
 
