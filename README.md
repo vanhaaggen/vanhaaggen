@@ -1,13 +1,13 @@
 ### Hi nice people, I'm Christian  👋
+I'm building my carrer as Front-end developer. I left my job as an accountant and started from scratch my Tech-journey. 
 
-[![Website](https://img.shields.io/static/v1?label=linkedin&logo=linkedin&labelColor=0077ee&style=for-the-badge&message=let%27s%20connect)](https://www.linkedin.com/in/christian-haag-dev/)
 
-## I'm building my carrer as Front-end developer!
+## What am I doing
 
-- 🔭 I’m currently developing a weight rack calculator.
-- 🌱 I’m currently learning every day to land my firtst job as Front-end developer. All feedback is welcome.
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I like graphic design, playing Bass and Powerlifting 🏋️‍♀️
+- 👨‍💻 I’m currently building a weight rack calculator.
+- 🌿 I’m currently learning every day to land my firtst job as Front-end developer. All feedback is welcome.
+- 🤝 2020 Goals: Contribute more to Open Source projects
+- 🎡 Fun fact: I like graphic design, playing Bass and Powerlifting 🏋️‍♀️
 
 <br />
 
@@ -37,4 +37,7 @@
 ---
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vanhaaggen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Want to connect?
+[![Website](https://img.shields.io/static/v1?label=linkedin&logo=linkedin&labelColor=0077ee&style=for-the-badge&message=let%27s%20connect)](https://www.linkedin.com/in/christian-haag-dev/)
 
