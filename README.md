@@ -4,14 +4,14 @@
 
 ## I'm building my carrer as Front-end developer!
 
-- 🔭 I’m currently 
-- 🌱 I’m currently 
+- 🔭 I’m currently developing a weight rack calculator.
+- 🌱 I’m currently learning every day to land my firtst job as Front-end developer. All feedback is welcome.
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact 
+- ⚡ Fun fact: I like graphic design, playing Bass and Powerlifting 🏋️‍♀️
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools i use:
 
 
 <img align="left" alt="javascript" width="26px" src="./icons/javascript.svg" />
@@ -35,4 +35,6 @@
 <br />
 
 ---
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vanhaaggen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
