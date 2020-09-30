@@ -35,11 +35,10 @@ I'm building my carrer as Front-end developer. I quit my job as an accountant 1.
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanhaaggen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="vanhaggen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vanhaaggen&show_icons=true" />
+<img align="left" alt="vanhaggen's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhaaggen&layout=compact" />
 
 ---
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vanhaaggen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Want to connect?
 [![Website](https://img.shields.io/static/v1?label=linkedin&logo=linkedin&labelColor=0077ee&style=for-the-badge&message=let%27s%20connect)](https://www.linkedin.com/in/christian-haag-dev/)
