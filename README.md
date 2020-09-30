@@ -1,5 +1,6 @@
-### Hi nice people, I'm Christian  👋
-I'm building my carrer as Front-end developer. I quit my job as an accountant 1.5 years ago and started from scratch my Tech-journey. 
+
+## Hi nice people, my name is Christian  👋
+I'm building my carrer as Front-end developer. I quit my job as an accountant 1.5 years ago and started from scratch my Tech-journey.
 
 
 ## What am I doing
