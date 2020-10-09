@@ -5,8 +5,9 @@ I'm building my carrer as Front-end developer. I quit my job as an accountant 1.
 
 ## What am I doing
 
-- 👨‍💻 I’m currently building a [barbell rack calculator](https://rackmybarbell.netlify.app).
-- 🌿 I’m currently learning every day to land my firtst job as Front-end developer. All feedback is welcome.
+- 👨‍💻 I’m currently building a Codewars Stat card for Github README.
+- 📚 I'm currently learning Ruby. 
+- 🌿 I’m learning every day to land my firtst job as Front-end developer. All feedback is welcome.
 - 🤝 2020 Goals: Contribute more to Open Source projects
 - 🎡 Fun fact: I like graphic design, playing Bass and Powerlifting 🏋️‍♀️
 
