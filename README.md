@@ -42,7 +42,7 @@ I'm building my carrer as Front-end developer. I quit my job as an accountant 1.
 
 <img alt="vanhaggen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vanhaaggen&show_icons=true" />
 
-<!---<img alt="vanhaaggen's codewars stats" src="https://www.codewars.com/users/vanhaaggen/badges/large"/>--->
+![codewars stat](https://afternoon-wildwood-73334.herokuapp.com/?username=vanhaaggen)
 
 ## Want to connect?
 [![Website](https://img.shields.io/static/v1?label=linkedin&logo=linkedin&labelColor=0077ee&style=for-the-badge&message=let%27s%20connect)](https://www.linkedin.com/in/christian-haag-dev/)
