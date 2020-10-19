@@ -42,7 +42,7 @@ I'm building my carrer as Front-end developer. I quit my job as an accountant 1.
 
 <img alt="vanhaggen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vanhaaggen&show_icons=true" />
 
-
+![](https://afternoon-wildwood-73334.herokuapp.com/?username=vanhaaggen&badge&bright_mode=true)
 
 
 ## Want to connect?
