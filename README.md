@@ -40,7 +40,7 @@ I'm building my carrer as Front-end developer. I've quit my job as an accountant
 
 <img alt="vanhaggen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vanhaaggen&show_icons=true" />
 
-![](https://github-readme-codewars-stats.herokuapp.com/api/?username=vanhaaggen&card)
+![](https://github-readme-codewars-stats.herokuapp.com/api/?username=vanhaaggen)
 
 ## Want to connect?
 [![Website](https://img.shields.io/static/v1?label=linkedin&logo=linkedin&labelColor=0077ee&style=for-the-badge&message=let%27s%20connect)](https://www.linkedin.com/in/christian-haag-dev/)
