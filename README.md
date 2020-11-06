@@ -1,5 +1,6 @@
 
-## Hi nice people, my name is Christian  👋
+<h2 align="center">Hi nice people,</h2> 
+<h2 align="center">my name is Christian 👋</h2>  
 I'm building my carrer as Front-end developer. I've quit my job as an accountant 1.5 years ago and started from scratch my Tech-journey.
 
 
