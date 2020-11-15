@@ -10,7 +10,6 @@ I'm building my carrer as Front-end developer. I've quit my job as an accountant
 - 📚 I'm currently learning Ruby. 
 - 🌿 I’m learning every day to land my firtst job as Front-end developer. All feedback is welcome.
 - 🤝 2020 Goals: Contribute more to Open Source projects
-- 🎡 Fun fact: I like graphic design, playing Bass and Powerlifting 🏋️‍♀️
 ---
 <img alt="vanhaggen's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhaaggen&layout=compact" />
 
