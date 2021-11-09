@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi, my name is Christian 👋</h2> 
  
-I'm building my carrer as Front-end developer. I've quit my job as an accountant 1.5 years ago and started from scratch my Tech-journey.
+I'm building my carrer as Front-end developer. I've quit my job as an accountant and started from scratch my Tech-journey.
 
 [![Website](https://img.shields.io/static/v1?label=linkedin&logo=linkedin&labelColor=0077ee&style=for-the-badge&message=let%27s%20connect)](https://www.linkedin.com/in/christian-haag-dev/)
 
