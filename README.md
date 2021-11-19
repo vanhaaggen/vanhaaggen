@@ -8,7 +8,7 @@ I'm building my carrer as Front-end developer. I've quit my job as an accountant
 
 ## What am I doing
 
-- 👨‍💻 I’m currently working at a Fin/Reg-Tech Startup, and it's amazing! 
+- 👨‍💻 I’m currently working at the most amazing Fin/Reg-Tech Startup on the planet! 🌍💚
 - 🌿 Learning from everyone. All feedback is welcome.
 - 🤝 2021 Goals: Survive 
 ---
