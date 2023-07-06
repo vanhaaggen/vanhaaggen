@@ -16,6 +16,6 @@ I'm building my carrer as Front-end developer. I've quit my job as an accountant
 
 <!---<img alt="vanhaggen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vanhaaggen&show_icons=true"/> --->
 
-![](https://github-readme-codewars-stats.herokuapp.com/api/?username=vanhaaggen&card&colormode=dark_mode)
+![](https://codewars-stat-card.onrender.com/api/?username=vanhaaggen&card&colormode=dark_mode)
 
 
