@@ -10,7 +10,7 @@ I'm building my carrer as Front-end developer. I've quit my job as an accountant
 
 - 👨‍💻 I’m currently working at [fundcraf.lu](https://fundcraft.lu), a Fin/Reg-Tech Startup.
 - 🌿 Learning from everyone. All feedback is welcome.
-- 🤝 2024 Goals: Survive 
+- 🤝 2025 Goals: Survive 
 <!--- --- --->
 <!---<img align="right" alt="vanhaggen's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhaaggen&layout=compact" /> --->
 
