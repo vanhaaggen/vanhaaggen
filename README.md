@@ -7,6 +7,11 @@
 
 [![Website](https://img.shields.io/static/v1?label=linkedin&logo=linkedin&labelColor=0077ee&style=for-the-badge&message=let%27s%20connect)](https://www.linkedin.com/in/christian-haag-dev/)
 
-![](https://codewars-stat-card.onrender.com/api/?username=vanhaaggen&card&colormode=dark_mode)
+<div>
+  
+![](https://codewars-stat-card.onrender.com/api/?username=vanhaaggen&badge&colormode=dark_mode)
 
+![](https://codewars-stat-card.onrender.com/api/?username=vanhaaggen&card&colormode=light_mode)
+
+</div>
 
