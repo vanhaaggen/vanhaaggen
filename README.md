@@ -11,7 +11,7 @@
   
 ![](https://codewars-stat-card.onrender.com/api/?username=vanhaaggen&badge&colormode=dark_mode)
 
-![](https://codewars-stat-card.onrender.com/api/?username=vanhaaggen&card&colormode=light_mode)
+![](https://codewars-stat-card.onrender.com/api/?username=vanhaaggen&card&colormode=dark_mode)
 
 </div>
 
